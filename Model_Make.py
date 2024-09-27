@@ -1,7 +1,5 @@
 import os
-import matplotlib.pyplot as plt
 import torch
-from PIL import Image
 from torch import nn
 from torch.nn import Conv2d, Linear, ReLU
 from torch.nn import MaxPool2d
